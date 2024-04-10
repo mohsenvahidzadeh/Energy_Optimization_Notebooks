@@ -1,7 +1,7 @@
 # Energy_Optimization_Notebooks
 
-
-The data, equations, and figures used in this work are inspired by the following resources and may be subject to further licensing:
+The code in this repo is developed by the author (Mohsen Vahidzadeh) and can be used, modified, and shared free of charge.
+The data, equations, and figures used in this work however, are inspired by the following resources and may be subject to further licensing:
 
 - Soroudi, Alireza. Power system optimization modeling in GAMS. Vol. 78. Berlin/Heidelberg, Germany: Springer, 2017.
 
